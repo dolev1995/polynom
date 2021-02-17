@@ -1,2 +1,2 @@
-# test
-learn about git
+# polynom
+Oop course project
