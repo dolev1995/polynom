@@ -11,7 +11,7 @@ import java.awt.*;
 /**
  * This class extends JFrame and creates a GUI of a polynom function graph.
  * this class uses gral-core-0.11 library.
- * @author Eitan lichtman & Netanel Indik
+ * @author Dolev Brender
  * @version 1.0
  */
 public class PolynomGraph extends JFrame{
